@@ -26,23 +26,19 @@ N.Vignesh
 
 ## Program Page
 ![HomePage](https://github.com/GOkuljaf/fitflex/blob/main/src/assets/img/Home_page.png)
-## To run this 
-Install Pip .
-In command Type:
-   python manage.py runserver
 
-This is a health & fitness website which specialize in tracking your fitness activities. The website provides fitness programs,fitness tracking dashboard and fitness related memberships .
 
-In this project i have tried to manipulate dom elements, styling using css and tried to make website more dynamic and responsive. With my efforts and the technology stack that i have learned till Unit-4 in the Masai School, i am able to design the whole website with some functionalities & features.
+This is a Flight ticket booking website which specialize in booking ticket. The website provides Boarding pass,Reschedule the ticket and Cancellation ticket.
+
+In this project i have tried to manipulate dom elements, styling using css and tried to make website more dynamic and responsive. With my efforts and the technology stack that  i am able to design the whole website with some functionalities & features.
 
 
 # Technology Stack Used 🌟
-* React.js
+* HTML
 * CSS
-* rest-api
-* auth0
-* swal
-* aos-animation
+* Javascript
+* Django
+* SQLite
 
 For storing user data i used localStorage & JSON-Server.
 
@@ -63,10 +59,10 @@ Follow the following steps to get development environment running.
   git clone git@github.com:GOkuljaf/polite-sheep-7319.git
   ```
 
-* Install node modules
+* Install PIP
 
    ```bash
-   npm install
+   Pip install
    ```
 
 
@@ -75,6 +71,6 @@ Follow the following steps to get development environment running.
 * Build application
 
   ```bash
-  npm start
+  python manage.py runserver
   ```
 ---
