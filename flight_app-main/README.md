@@ -25,7 +25,7 @@ N.Vignesh
 [Email](vigneshnarayanan1711@gmail.com)
 
 ## Program Page
-![HomePage](https://github.com/GOkuljaf/fitflex/blob/main/src/assets/img/Home_page.png)
+![HomePage](https://github.com/GOkuljaf/miniproject/blob/main/Screenshot%202025-04-01%20145332.png)
 
 
 This is a Flight ticket booking website which specialize in booking ticket. The website provides Boarding pass,Reschedule the ticket and Cancellation ticket.
@@ -50,13 +50,13 @@ Follow the following steps to get development environment running.
 * Clone repository from GitHub
 
   ```bash
-  git clone https://github.com/GOkuljaf/polite-sheep-7319.git
+  git clone https://github.com/GOkuljaf/miniproject.git
   ```
 
    _OR USING SSH_
 
   ```bash
-  git clone git@github.com:GOkuljaf/polite-sheep-7319.git
+  git clone git@github.com:GOkuljaf/miniproject.git
   ```
 
 * Install PIP
