@@ -1,8 +1,8 @@
-# HEALTH & FITNESS REACT APP
+# Online flight ticket booking
 
 -----
 ### Version 1 : 
-Project:Online ticket booking website with complete authentication made using Django
+Project:Online flight ticket booking website with complete authentication made using Django
 
 **Progress:**
 
